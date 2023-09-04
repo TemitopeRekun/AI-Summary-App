@@ -10,11 +10,10 @@ const App = () => {
 		<main>
 			<div className="main">
 				<div className="gradient" />
-
-				<div className="app">
-					<Hero />
-					<Demo />
-				</div>
+			</div>
+			<div className="app">
+				<Hero />
+				<Demo />
 			</div>
 		</main>
 	);
